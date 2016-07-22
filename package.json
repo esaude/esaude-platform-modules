@@ -1,0 +1,27 @@
+{
+  "name": "esaude-platform-modules",
+  "version": "1.2.1",
+  "description": "Scripts to package and deploy eSaude EMR Platform modules",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf ./bundle && rm -rf ./git-* && rm -rf ./*.zip",
+    "create-version": "node scripts/create-version.js",
+    "publish-version": "git tag $(node -e \"console.log(require('./package.json').version);\") && git push --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esaude/esaude-platform-modules.git"
+  },
+  "author": "eSaude Infrastructure <ops@esaude.org> (http://esaude.org)",
+  "license": "MPL-2.0",
+  "homepage": "https://github.com/esaude/esaude-platform-modules#readme",
+  "dependencies": {
+    "archiver": "^1.0.0",
+    "download": "^5.0.2",
+    "find": "^0.2.7",
+    "fs-extra": "^0.30.0",
+    "maven": "^4.0.3",
+    "nodegit": "^0.14.1",
+    "rimraf": "^2.5.3"
+  }
+}

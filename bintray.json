@@ -1,0 +1,17 @@
+{
+  "package": {
+    "name": "modules",
+    "repo": "platform",
+    "subject": "esaude"
+  },
+  "version": {
+    "name": "1.2.1"
+  },
+  "files": [
+    {
+      "includePattern": "./(esaude-platform-modules-.*\\.zip)",
+      "uploadPattern": "$1"
+    }
+  ],
+  "publish": true
+}

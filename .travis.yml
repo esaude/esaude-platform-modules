@@ -1,0 +1,29 @@
+language: java
+jdk:
+  - oraclejdk7
+env:
+  - TRAVIS_NODE_VERSION="6.3.1" CXX=g++-4.8
+addons:
+  apt:
+    sources:
+      - ubuntu-toolchain-r-test
+    packages:
+      - g++-4.8
+      - ruby
+install:
+  - rm -rf ~/.nvm && git clone https://github.com/creationix/nvm.git ~/.nvm && (cd ~/.nvm && git checkout `git describe --abbrev=0 --tags`) && source ~/.nvm/nvm.sh && nvm install $TRAVIS_NODE_VERSION
+  - npm install -g bower grunt
+  - npm install
+  - gem install compass
+script:
+  - node bundler.js
+after_script:
+  - ls -lah
+deploy:
+  provider: bintray
+  file: "bintray.json"
+  user: "esaude-ops"
+  key: $BINTRAY_API_KEY
+  dry-run: false
+  on:
+    tags: true

@@ -1,0 +1,5 @@
+node_modules
+.java-version
+bundle
+git-*
+*.zip

@@ -1,0 +1,209 @@
+{
+  "modules": [
+    {
+      "name": "Address Hierarchy",
+      "version": "2.4",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1102/download/addresshierarchy-2.4.omod",
+      "filename": "addresshierarchy-2.4.omod"
+    },
+    {
+      "name": "App Framework Module",
+      "version": "2.1",
+      "url": "https://modules.openmrs.org/modulus/api/releases/33/download/appframework-2.1.omod",
+      "filename": "appframework-2.1.omod"
+    },
+    {
+      "name": "AtomFeed Module",
+      "version": "2.4",
+      "git": {
+        "repo": "https://github.com/ICT4H/openmrs-atomfeed.git",
+        "tag": "openmrs-atomfeed-2.4"
+      },
+      "filename": "openmrs-atomfeed-2.4.omod"
+    },
+    {
+      "name": "Bahmni Apps Module",
+      "version": "0.74-SNAPSHOT",
+      "git": {
+        "repo": "https://github.com/Bahmni/openmrs-module-bahmniapps.git",
+        "branch": "release-0.74"
+      },
+      "url": "https://dl.bintray.com/esaude/platform/prebuilt-omods/bahmniapps-0.74-SNAPSHOT.omod",
+      "filename": "bahmniapps-0.74-SNAPSHOT.omod"
+    },
+    {
+      "name": "BahmniEMR Core OMOD",
+      "version": "0.77-SNAPSHOT",
+      "git": {
+        "repo": "https://github.com/Bahmni/bahmni-core.git",
+        "branch": "release-0.77"
+      },
+      "url": "https://dl.bintray.com/esaude/platform/prebuilt-omods/bahmnicore-omod-0.77-SNAPSHOT.omod",
+      "filename": "bahmnicore-omod-0.77-SNAPSHOT.omod"
+    },
+    {
+      "name": "Calculation",
+      "version": "1.1",
+      "url": "https://modules.openmrs.org/modulus/api/releases/66/download/calculation-1.1.omod",
+      "filename": "calculation-1.1.omod"
+    },
+    {
+      "name": "Data Entry Statistics",
+      "version": "1.3.2",
+      "url": "https://modules.openmrs.org/modulus/api/releases/110/download/dataentrystatistics-1.3.1.omod",
+      "filename": "dataentrystatistics-1.3.1.omod"
+    },
+    {
+      "name": "Database Backup Module",
+      "version": "1.0",
+      "url": "https://modules.openmrs.org/modulus/api/releases/100/download/databasebackup-1.0.omod",
+      "filename": "databasebackup-1.0.omod"
+    },
+    {
+      "name": "EMR API Module",
+      "version": "1.11.1",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1278/download/emrapi-1.11.1.omod",
+      "filename": "emrapi-1.11.1.omod"
+    },
+    {
+      "name": "Event Module",
+      "version": "2.2.1",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1289/download/event-2.2.1.omod",
+      "filename": "event-2.2.1.omod"
+    },
+    {
+      "name": "Form Filter Module",
+      "version": "1.0.0",
+      "url": "https://modules.openmrs.org/modulus/api/releases/228/download/formfilter-1.0.0.omod",
+      "filename": "formfilter-1.0.0.omod"
+    },
+    {
+      "name": "Gaac Module",
+      "version": "1.0-SNAPSHOT",
+      "url": "https://github.com/esaude/openmrs-module-gaac/releases/download/1.0-SNAPSHOT/gaac-1.0-SNAPSHOT.omod",
+      "filename": "gaac-1.0-SNAPSHOT.omod"
+    },
+    {
+      "name": "Groovy",
+      "version": "2.2.4",
+      "url": "https://modules.openmrs.org/modulus/api/releases/261/download/groovy-2.2.4.omod",
+      "filename": "groovy-2.2.4.omod"
+    },
+    {
+      "name": "HTML Form Entry",
+      "version": "2.1.1",
+      "url": "https://modules.openmrs.org/modulus/api/releases/324/download/htmlformentry-2.2.1.omod",
+      "filename": "htmlformentry-2.2.1.omod"
+    },
+    {
+      "name": "HTML Form Entry Extensions for OpenMRS 1.9 Module",
+      "version": "1.2",
+      "url": "https://modules.openmrs.org/modulus/api/releases/329/download/htmlformentry19ext-1.2.omod",
+      "filename": "htmlformentry19ext-1.2.omod"
+    },
+    {
+      "name": "HTML Widgets",
+      "version": "1.6.5",
+      "url": "https://modules.openmrs.org/modulus/api/releases/358/download/htmlwidgets-1.6.5.omod",
+      "filename": "htmlwidgets-1.6.5.omod"
+    },
+    {
+      "name": "ID Generation",
+      "version": "2.9.1",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1104/download/idgen-omod-2.9.1-fixed.omod",
+      "filename": "idgen-omod-2.9.1-fixed.omod"
+    },
+    {
+      "name": "ID Generation Web Services",
+      "version": "1.0",
+      "git": {
+        "repo": "https://github.com/Bahmni/openmrs-module-idgen-webservices.git",
+        "tag": "idgen-webservices-1.0"
+      },
+      "filename": "idgen-webservices-1.0.omod"
+    },
+    {
+      "name": "Logic Module",
+      "version": "0.5.2",
+      "url": "https://modules.openmrs.org/modulus/api/releases/460/download/logic-0.5.2.omod",
+      "filename": "logic-0.5.2.omod"
+    },
+    {
+      "name": "Metadata Mapping",
+      "version": "1.0.1",
+      "url": "https://modules.openmrs.org/modulus/api/releases/484/download/metadatamapping-1.0.1.omod",
+      "filename": "metadatamapping-1.0.1.omod"
+    },
+    {
+      "name": "Metadata Sharing",
+      "version": "1.1.9",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1167/download/metadatasharing-1.1.9.omod",
+      "filename": "metadatasharing-1.1.9.omod"
+    },
+    {
+      "name": "OpenMRS UI Framework",
+      "version": "3.4",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1261/download/uiframework-omod-3.4.omod",
+      "filename": "uiframework-omod-3.4.omod"
+    },
+    {
+      "name": "Patient Flags Module",
+      "version": "1.3.4",
+      "url": "https://modules.openmrs.org/modulus/api/releases/555/download/patientflags-1.3.4.omod",
+      "filename": "patientflags-1.3.4.omod"
+    },
+    {
+      "name": "Patient Summary Module",
+      "version": "2.0",
+      "url": "https://modules.openmrs.org/modulus/api/releases/576/download/patientsummary-2.0.omod",
+      "filename": "patientsummary-2.0.omod"
+    },
+    {
+      "name": "Provider Management Module",
+      "version": "2.3",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1263/download/providermanagement-2.3.omod",
+      "filename": "providermanagement-2.3.omod"
+    },
+    {
+      "name": "Reference Data",
+      "version": "0.74-SNAPSHOT",
+      "git": {
+        "repo": "https://github.com/Bahmni/bahmni-core.git",
+        "commit": "3dbbab2c4c0f3ce6173a18fe04175593b02b2f91",
+        "path": "reference-data"
+      },
+      "url": "https://dl.bintray.com/esaude/platform/prebuilt-omods/reference-data-0.74-SNAPSHOT.omod",
+      "filename": "reference-data-0.74-SNAPSHOT.omod"
+    },
+    {
+      "name": "Reporting",
+      "version": "0.9.7",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1291/download/reporting-0.9.7.omod",
+      "filename": "reporting-0.9.7.omod"
+    },
+    {
+      "name": "Reporting Compatibility",
+      "version": "1.5.8",
+      "url": "https://modules.openmrs.org/modulus/api/releases/686/download/reportingcompatibility-1.5.8.omod",
+      "filename": "reportingcompatibility-1.5.8.omod"
+    },
+    {
+      "name": "Rest Web Services",
+      "version": "2.12-SNAPSHOT.26ea0d",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1266/download/webservices.rest-2.12.omod",
+      "filename": "webservices.rest-2.12.omod"
+    },
+    {
+      "name": "Serialization Xstream",
+      "version": "0.2.7",
+      "url": "https://modules.openmrs.org/modulus/api/releases/743/download/serialization.xstream-0.2.7.omod",
+      "filename": "serialization.xstream-0.2.7.omod"
+    },
+    {
+      "name": "UI Library Module",
+      "version": "1.5",
+      "url": "https://modules.openmrs.org/modulus/api/releases/832/download/uilibrary-1.5.omod",
+      "filename": "uilibrary-1.5.omod"
+    }
+  ]
+}
