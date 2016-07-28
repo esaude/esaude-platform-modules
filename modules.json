@@ -195,9 +195,9 @@
     },
     {
       "name": "Serialization Xstream",
-      "version": "0.2.7",
-      "url": "https://modules.openmrs.org/modulus/api/releases/743/download/serialization.xstream-0.2.7.omod",
-      "filename": "serialization.xstream-0.2.7.omod"
+      "version": "0.2.9",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1294/download/serialization.xstream-0.2.9.omod",
+      "filename": "serialization.xstream-0.2.9.omod"
     },
     {
       "name": "UI Library Module",
