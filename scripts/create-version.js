@@ -1,12 +1,13 @@
 #!/bin/node
 const fs = require('fs');
+const child = require('child_process');
 
-const child = require('child_process').exec(`npm --no-git-tag-version version ${process.argv[2]}`);
+const npm = child.exec(`npm --no-git-tag-version version ${process.argv[2]}`);
 
-child.stdout.pipe(process.stdout);
-child.stderr.pipe(process.stderr);
+npm.stdout.pipe(process.stdout);
+npm.stderr.pipe(process.stderr);
 
-child.on('exit', () => {
+npm.on('exit', () => {
   // update the Bintray config
   const bintray = JSON.parse(fs.readFileSync('bintray.json', 'utf8'));
   const package = JSON.parse(fs.readFileSync('package.json', 'utf8'));
@@ -14,5 +15,10 @@ child.on('exit', () => {
   bintray.version.name = package.version;
   fs.writeFileSync('bintray.json', JSON.stringify(bintray, null, 2));
 
-  process.exit()
+  // commit version
+  const commit = child.exec(`git add package.json && git add bintray.json && git commit -m "${package.version}"`);
+
+  commit.on('exit', () => {
+    process.exit();
+  });
 });

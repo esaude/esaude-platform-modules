@@ -6,7 +6,7 @@
   "scripts": {
     "clean": "rm -rf ./bundle && rm -rf ./git-* && rm -rf ./*.zip",
     "create-version": "node scripts/create-version.js",
-    "publish-version": "git tag $(node -e \"console.log(require('./package.json').version);\") && git push --tags"
+    "publish-version": "git tag $(node -e \"console.log(require('./package.json').version);\") && git push && git push --tags"
   },
   "repository": {
     "type": "git",
