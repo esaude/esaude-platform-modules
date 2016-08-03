@@ -2,7 +2,7 @@
   "name": "esaude-platform-modules",
   "version": "1.2.2",
   "description": "Scripts to package and deploy eSaude EMR Platform modules",
-  "main": "index.js",
+  "main": "bundler.js",
   "scripts": {
     "clean": "rm -rf ./bundle && rm -rf ./git-* && rm -rf ./*.zip",
     "create-version": "node scripts/create-version.js",

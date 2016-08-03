@@ -204,6 +204,12 @@
       "version": "1.5",
       "url": "https://modules.openmrs.org/modulus/api/releases/832/download/uilibrary-1.5.omod",
       "filename": "uilibrary-1.5.omod"
+    },
+    {
+      "name": "eSaude Metadata Module",
+      "version": "1.0.0",
+      "url": "https://dl.bintray.com/esaude/platform-omods/esaudemetadata-1.0.0.omod",
+      "filename": "esaudemetadata-1.0.0.omod"
     }
   ]
 }

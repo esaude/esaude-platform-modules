@@ -42,8 +42,8 @@ The **`git`** JSON object looks like:
 > **Note:** Only the `repo` property is required. Only *one* of `commit` or `tag`
 should be supplied. If both are specified, then `tag` will be used.
 
-Once you've made your changes, run `node bundler.js` to make sure that the new
-bundle builds correctly.
+Once you've made your changes, run `node bundler.js` on the project root to make sure that the new
+bundle builds correctly. You need to do `npm install` if you run into errors refer to [readme](https://github.com/nodegit/nodegit) 
 
 :bulb: You need NodeJS `v6.3.1` or greater to run the script.
 
