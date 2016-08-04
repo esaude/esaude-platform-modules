@@ -1,6 +1,6 @@
 {
   "name": "esaude-platform-modules",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Scripts to package and deploy eSaude EMR Platform modules",
   "main": "bundler.js",
   "scripts": {
