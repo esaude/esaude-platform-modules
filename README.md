@@ -5,6 +5,8 @@
 # eSaude EMR Platform Module Bundler
 
 [![Build Status](https://travis-ci.org/esaude/esaude-platform-modules.svg?branch=master)](https://travis-ci.org/esaude/esaude-platform-modules)
+[ ![Download](https://api.bintray.com/packages/esaude/platform/modules/images/download.svg) ](https://bintray.com/esaude/platform/modules/_latestVersion)
+[![eSaude Slack](https://slack.esaude.org/badge.svg)](https://slack.esaude.org)
 
 Tool used to build and publish the eSaude Platform module bundle.
 
@@ -42,14 +44,37 @@ The **`git`** JSON object looks like:
 > **Note:** Only the `repo` property is required. Only *one* of `commit` or `tag`
 should be supplied. If both are specified, then `tag` will be used.
 
-Once you've made your changes, run `node bundler.js` on the project root to make sure that the new
-bundle builds correctly. You need to do `npm install` if you run into errors refer to [readme](https://github.com/nodegit/nodegit) 
+Once you've made your changes, test the build as described below.
 
-:bulb: You need NodeJS `v6.3.1` or greater to run the script.
+> ##### Step 2: Test Build
 
-> ##### Step 2: Publish Bundle
+:bulb: You need NodeJS `v6.3.1` or greater to build the module bundle.
 
-Once you push your changes to GitHub, Travis will automatically build the
+To test the build, you first need to install the NodeJS dependencies. Do this by
+executing the following command in the project root:
+
+```sh
+npm install
+```
+
+If you run into issues installing the dependencies, see the [Troubleshooting](#troubleshooting)
+section below.
+
+To build the module bundle, run:
+
+```
+node bundler.js
+```
+
+This will download and/or build all the modules defined in `modules.json` and
+place them in the `bundle` directory. It will also create a file called
+`esaude-platform-modules-x.y.z.zip`, which is the bundle.
+
+Make _sure_ all the expected modules are contained in the bundle.
+
+> ##### Step 3: Publish Bundle
+
+Once you've tested your changes and pushed to GitHub, Travis will automatically build the
 bundle, but it will not publish a new version to [Bintray](https://bintray.com/esaude/platform/modules). To publish to Bintray,
 you must create and push a tag to Github. This can be done by first creating
 the version as follows:
@@ -57,18 +82,33 @@ the version as follows:
 ```sh
 npm run create-version <OPTION>
 ```
-where `<OPTION>` can be **major**, **minor**, **patch** or a specific [semver](http://semver.org/) version (like 1.2.3). This command basically just changes the version numbers is in the
-[`package.json`](package.json) and [`bintray.json`](bintray.json) files (see [docs](https://docs.npmjs.com/cli/version)).
+where `<OPTION>` can be **major**, **minor**, **patch** or a specific [semver](http://semver.org/) version (like 1.2.3). This command changes the version numbers is in the
+[`package.json`](package.json) and [`bintray.json`](bintray.json) files (see [docs](https://docs.npmjs.com/cli/version)) and creates a version commit.
 
 Finally, publish the version by running:
 
 ```sh
-npm run publish version
+npm run publish-version
 ```
 
 :pushpin: Once you've published a new module bundle version, you may also want
 to update the eSaude Platform [Tomcat Docker file](https://github.com/esaude/esaude-platform-docker/blob/master/tomcat/Dockerfile).
 See the [eSaude EMR Platform release process documentation](https://paper.dropbox.com/doc/eSaude-EMR-Platform-Release-Process-sHAOkkPbH5oveFvtqvMkK) for more info.
+
+## Troubleshooting
+
+> Error: /usr/lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.20' not found
+
+If you see this error, it's because you need a more recent version of `libstdc++`.
+On Ubuntu, this can be installed as follows:
+
+```sh
+sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+sudo apt-get update
+sudo apt-get install libstdc++-4.9-dev
+```
+
+See the NodeGit [README](https://github.com/nodegit/nodegit) for more information.
 
 ## License
 
