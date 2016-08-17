@@ -19,7 +19,8 @@
         "repo": "https://github.com/ICT4H/openmrs-atomfeed.git",
         "tag": "openmrs-atomfeed-2.4"
       },
-      "filename": "openmrs-atomfeed-2.4.omod"
+      "url": "https://dl.bintray.com/esaude/platform/prebuilt-omods/openmrs-atomfeed-2.4-SNAPSHOT.omod",
+      "filename": "openmrs-atomfeed-2.4-SNAPSHOT.omod"
     },
     {
       "name": "Bahmni Apps Module",
