@@ -137,9 +137,9 @@
     },
     {
       "name": "Metadata Sharing",
-      "version": "1.1.9",
-      "url": "https://modules.openmrs.org/modulus/api/releases/1167/download/metadatasharing-1.1.9.omod",
-      "filename": "metadatasharing-1.1.9.omod"
+      "version": "1.2",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1393/download/metadatasharing-1.2.omod",
+      "filename": "metadatasharing-1.2.omod"
     },
     {
       "name": "OpenMRS UI Framework",
@@ -178,9 +178,9 @@
     },
     {
       "name": "Reporting",
-      "version": "0.9.7",
-      "url": "https://modules.openmrs.org/modulus/api/releases/1291/download/reporting-0.9.7.omod",
-      "filename": "reporting-0.9.7.omod"
+      "version": "0.9.9",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1395/download/reporting-0.9.9.omod",
+      "filename": "reporting-0.9.9.omod"
     },
     {
       "name": "Reporting Compatibility",
@@ -208,9 +208,24 @@
     },
     {
       "name": "eSaude Metadata Module",
+      "version": "1.1.0",
+      "url": "https://dl.bintray.com/esaude/platform-omods/esaudemetadata-1.1.0.omod",
+      "filename": "esaudemetadata-1.1.0.omod"
+    },
+    {
+      "name": "reportingrest",
+      "version": "1.6",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1396/download/reportingrest-1.6.omod",
+      "filename": "reportingrest-1.6.omod"
+    },
+    {
+      "name": "patientflag_rest Module",
       "version": "1.0.0",
-      "url": "https://dl.bintray.com/esaude/platform-omods/esaudemetadata-1.0.0.omod",
-      "filename": "esaudemetadata-1.0.0.omod"
+      "git": {
+        "repo": "https://github.com/esaude/openmrs-module-patientflags.rest.git",
+        "tag": "1.0.0"
+      },
+      "filename": "patientflag_rest-1.0.0.omod"
     }
   ]
 }
