@@ -2,9 +2,9 @@
   "modules": [
     {
       "name": "Address Hierarchy",
-      "version": "2.4",
-      "url": "https://modules.openmrs.org/modulus/api/releases/1102/download/addresshierarchy-2.4.omod",
-      "filename": "addresshierarchy-2.4.omod"
+      "version": "2.9",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1443/download/addresshierarchy-2.9.omod",
+      "filename": "addresshierarchy-2.9.omod"
     },
     {
       "name": "App Framework Module",
@@ -92,27 +92,27 @@
     },
     {
       "name": "HTML Form Entry",
-      "version": "2.1.1",
-      "url": "https://modules.openmrs.org/modulus/api/releases/324/download/htmlformentry-2.2.1.omod",
-      "filename": "htmlformentry-2.2.1.omod"
+      "version": "3.3.0",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1501/download/htmlformentry-3.3.0.omod",
+      "filename": "htmlformentry-3.3.0.omod"
     },
     {
       "name": "HTML Form Entry Extensions for OpenMRS 1.9 Module",
-      "version": "1.2",
-      "url": "https://modules.openmrs.org/modulus/api/releases/329/download/htmlformentry19ext-1.2.omod",
-      "filename": "htmlformentry19ext-1.2.omod"
+      "version": "1.7",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1349/download/htmlformentry19ext-1.7.omod",
+      "filename": "htmlformentry19ext-1.7.omod"
     },
     {
       "name": "HTML Widgets",
-      "version": "1.6.5",
-      "url": "https://modules.openmrs.org/modulus/api/releases/358/download/htmlwidgets-1.6.5.omod",
-      "filename": "htmlwidgets-1.6.5.omod"
+      "version": "1.7.2",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1489/download/htmlwidgets-1.7.2.omod",
+      "filename": "htmlwidgets-1.7.2.omod"
     },
     {
       "name": "ID Generation",
-      "version": "2.9.1",
-      "url": "https://modules.openmrs.org/modulus/api/releases/1104/download/idgen-omod-2.9.1-fixed.omod",
-      "filename": "idgen-omod-2.9.1-fixed.omod"
+      "version": "4.4.0",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1497/download/idgen-4.4.0.omod",
+      "filename": "idgen-4.4.0.omod"
     },
     {
       "name": "ID Generation Web Services",
@@ -208,9 +208,9 @@
     },
     {
       "name": "eSaude Metadata Module",
-      "version": "1.3.7",
-      "url": "https://dl.bintray.com/esaude/platform-omods/esaudemetadata-1.3.7.omod",
-      "filename": "esaudemetadata-1.3.7.omod"
+      "version": "1.3.8",
+      "url": "https://dl.bintray.com/esaude/platform-omods/esaudemetadata-1.3.8.omod",
+      "filename": "esaudemetadata-1.3.8.omod"
     },
     {
       "name": "reportingrest",
