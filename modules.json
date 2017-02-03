@@ -80,9 +80,9 @@
     },
     {
       "name": "Gaac Module",
-      "version": "1.0-SNAPSHOT",
-      "url": "https://github.com/esaude/openmrs-module-gaac/releases/download/1.0-SNAPSHOT/gaac-1.0-SNAPSHOT.omod",
-      "filename": "gaac-1.0-SNAPSHOT.omod"
+      "version": "1.0",
+      "url": "https://dl.bintray.com/esaude/platform-omods/gaac-1.0.omod ",
+      "filename": "gaac-1.0.omod "
     },
     {
       "name": "Groovy",
@@ -208,9 +208,9 @@
     },
     {
       "name": "eSaude Metadata Module",
-      "version": "1.3.9",
-      "url": "https://dl.bintray.com/esaude/platform-omods/esaudemetadata-1.3.9.omod",
-      "filename": "esaudemetadata-1.3.9.omod"
+      "version": "1.4.0",
+      "url": "https://dl.bintray.com/esaude/platform-omods/esaudemetadata-1.4.0.omod",
+      "filename": "esaudemetadata-1.4.0.omod"
     },
     {
       "name": "reportingrest",
