@@ -208,9 +208,9 @@
     },
     {
       "name": "eSaude Metadata Module",
-      "version": "1.4.0",
-      "url": "https://dl.bintray.com/esaude/platform-omods/esaudemetadata-1.4.0.omod",
-      "filename": "esaudemetadata-1.4.0.omod"
+      "version": "1.4.2",
+      "url": "https://dl.bintray.com/esaude/platform-omods/esaudemetadata-1.4.2.omod",
+      "filename": "esaudemetadata-1.4.2.omod"
     },
     {
       "name": "reportingrest",
@@ -226,6 +226,12 @@
         "tag": "1.0.0"
       },
       "filename": "patientflag_rest-1.0.0.omod"
+    },
+    {
+      "name": "OpenMRS Pharmacy Module",
+      "version": "1.0.0",
+      "url": "https://dl.bintray.com/esaude/platform-omods/pharmacyapi-1.0.0.omod",
+      "filename": "pharmacyapi-1.0.0.omod"
     }
   ]
 }
