@@ -232,6 +232,30 @@
       "version": "1.0.0",
       "url": "https://dl.bintray.com/esaude/platform-omods/pharmacyapi-1.0.0.omod",
       "filename": "pharmacyapi-1.0.0.omod"
+    },
+    {
+      "name": "OpenHMIS Inventory Module",
+      "version": "2.3.4",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1482/download/openhmis.inventory-2.3.4.omod",
+      "filename": "openhmis.inventory-2.3.4.omod"
+    },
+    {
+      "name": "OpenHMIS Commons",
+      "version": "3.4.3",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1481/download/openhmis.commons-3.4.3.omod",
+      "filename": "openhmis.commons-3.4.3.omod"
+    },
+    {
+      "name": "OpenHMIS Backbone Forms",
+      "version": "2.4.0",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1315/download/openhmis.backboneforms-2.4.0.omod",
+      "filename": "openhmis.backboneforms-2.4.0.omod"
+    },
+    {
+      "name": "Jasper Report",
+      "version": "1.5.8",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1540/download/jasperreport-1.5.8.omod",
+      "filename": "jasperreport-1.5.8.omod"
     }
   ]
 }
