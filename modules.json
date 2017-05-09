@@ -170,18 +170,6 @@
         "tag": "1.0.0"
       },
       "filename": "patientflag_rest-1.0.0.omod"
-    },
-    {
-      "name": "OpenMRS Pharmacy Module",
-      "version": "1.0.0",
-      "url": "https://dl.bintray.com/esaude/platform-omods/pharmacyapi-1.0.0.omod",
-      "filename": "pharmacyapi-1.0.0.omod"
-    },
-    {
-      "name": "Jasper Report",
-      "version": "1.5.8",
-      "url": "https://modules.openmrs.org/modulus/api/releases/1540/download/jasperreport-1.5.8.omod",
-      "filename": "jasperreport-1.5.8.omod"
     }
   ]
 }
