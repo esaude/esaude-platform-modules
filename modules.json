@@ -13,36 +13,6 @@
       "filename": "appframework-2.1.omod"
     },
     {
-      "name": "AtomFeed Module",
-      "version": "2.4",
-      "git": {
-        "repo": "https://github.com/ICT4H/openmrs-atomfeed.git",
-        "tag": "openmrs-atomfeed-2.4"
-      },
-      "url": "https://dl.bintray.com/esaude/platform/prebuilt-omods/openmrs-atomfeed-2.4-SNAPSHOT.omod",
-      "filename": "openmrs-atomfeed-2.4-SNAPSHOT.omod"
-    },
-    {
-      "name": "Bahmni Apps Module",
-      "version": "0.74-SNAPSHOT",
-      "git": {
-        "repo": "https://github.com/Bahmni/openmrs-module-bahmniapps.git",
-        "branch": "release-0.74"
-      },
-      "url": "https://dl.bintray.com/esaude/platform/prebuilt-omods/bahmniapps-0.74-SNAPSHOT.omod",
-      "filename": "bahmniapps-0.74-SNAPSHOT.omod"
-    },
-    {
-      "name": "BahmniEMR Core OMOD",
-      "version": "0.77-SNAPSHOT",
-      "git": {
-        "repo": "https://github.com/Bahmni/bahmni-core.git",
-        "branch": "release-0.77"
-      },
-      "url": "https://dl.bintray.com/esaude/platform/prebuilt-omods/bahmnicore-omod-0.77-SNAPSHOT.omod",
-      "filename": "bahmnicore-omod-0.77-SNAPSHOT.omod"
-    },
-    {
       "name": "Calculation",
       "version": "1.1",
       "url": "https://modules.openmrs.org/modulus/api/releases/66/download/calculation-1.1.omod",
@@ -109,21 +79,6 @@
       "filename": "htmlwidgets-1.7.2.omod"
     },
     {
-      "name": "ID Generation",
-      "version": "4.4.0",
-      "url": "https://modules.openmrs.org/modulus/api/releases/1497/download/idgen-4.4.0.omod",
-      "filename": "idgen-4.4.0.omod"
-    },
-    {
-      "name": "ID Generation Web Services",
-      "version": "1.0",
-      "git": {
-        "repo": "https://github.com/Bahmni/openmrs-module-idgen-webservices.git",
-        "tag": "idgen-webservices-1.0"
-      },
-      "filename": "idgen-webservices-1.0.omod"
-    },
-    {
       "name": "Logic Module",
       "version": "0.5.2",
       "url": "https://modules.openmrs.org/modulus/api/releases/460/download/logic-0.5.2.omod",
@@ -164,17 +119,6 @@
       "version": "2.3",
       "url": "https://modules.openmrs.org/modulus/api/releases/1263/download/providermanagement-2.3.omod",
       "filename": "providermanagement-2.3.omod"
-    },
-    {
-      "name": "Reference Data",
-      "version": "0.74-SNAPSHOT",
-      "git": {
-        "repo": "https://github.com/Bahmni/bahmni-core.git",
-        "commit": "3dbbab2c4c0f3ce6173a18fe04175593b02b2f91",
-        "path": "reference-data"
-      },
-      "url": "https://dl.bintray.com/esaude/platform/prebuilt-omods/reference-data-0.74-SNAPSHOT.omod",
-      "filename": "reference-data-0.74-SNAPSHOT.omod"
     },
     {
       "name": "Reporting",
@@ -232,24 +176,6 @@
       "version": "1.0.0",
       "url": "https://dl.bintray.com/esaude/platform-omods/pharmacyapi-1.0.0.omod",
       "filename": "pharmacyapi-1.0.0.omod"
-    },
-    {
-      "name": "OpenHMIS Inventory Module",
-      "version": "2.3.4",
-      "url": "https://modules.openmrs.org/modulus/api/releases/1482/download/openhmis.inventory-2.3.4.omod",
-      "filename": "openhmis.inventory-2.3.4.omod"
-    },
-    {
-      "name": "OpenHMIS Commons",
-      "version": "3.4.3",
-      "url": "https://modules.openmrs.org/modulus/api/releases/1481/download/openhmis.commons-3.4.3.omod",
-      "filename": "openhmis.commons-3.4.3.omod"
-    },
-    {
-      "name": "OpenHMIS Backbone Forms",
-      "version": "2.4.0",
-      "url": "https://modules.openmrs.org/modulus/api/releases/1315/download/openhmis.backboneforms-2.4.0.omod",
-      "filename": "openhmis.backboneforms-2.4.0.omod"
     },
     {
       "name": "Jasper Report",
