@@ -134,9 +134,9 @@
     },
     {
       "name": "Rest Web Services",
-      "version": "2.16.e045a4",
-      "url": "https://modules.openmrs.org/modulus/api/releases/1469/download/webservices.rest-2.16.omod",
-      "filename": "webservices.rest-2.16.omod"
+      "version": "2.19.0.f2b4a2",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1571/download/webservices.rest-2.19.0.omod",
+      "filename": "webservices.rest-2.19.0.omod"
     },
     {
       "name": "Serialization Xstream",
@@ -152,9 +152,9 @@
     },
     {
       "name": "eSaude Metadata Module",
-      "version": "1.4.5",
-      "url": "https://dl.bintray.com/esaude/platform-omods/esaudemetadata-1.4.5.omod",
-      "filename": "esaudemetadata-1.4.5.omod"
+      "version": "1.4.8",
+      "url": "https://dl.bintray.com/esaude/platform-omods/esaudemetadata-1.4.8.omod",
+      "filename": "esaudemetadata-1.4.8.omod"
     },
     {
       "name": "reportingrest",
@@ -173,9 +173,9 @@
     },
     {
       "name": "OpenMRS Pharmacy Module",
-      "version": "1.0.3",
-      "url": "https://dl.bintray.com/esaude/platform-omods/pharmacyapi-1.0.3.omod",
-      "filename": "pharmacyapi-1.0.3.omod"
+      "version": "1.0.4",
+      "url": "https://dl.bintray.com/esaude/platform-omods/pharmacyapi-1.0.4.omod",
+      "filename": "pharmacyapi-1.0.4.omod"
     },
     {
       "name": "Reporting MDS Module",
