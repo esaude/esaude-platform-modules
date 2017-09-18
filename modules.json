@@ -134,13 +134,13 @@
     },
     {
       "name": "Rest Web Services",
-      "version": "2.19.0.f2b4a2",
+      "version": "2.20.0.0e371e",
       "url": "https://modules.openmrs.org/modulus/api/releases/1616/download/webservices.rest-2.20.0.omod",
       "filename": "webservices.rest-2.20.0.omod"
     },
     {
       "name": "Serialization Xstream",
-      "version": "2.20.0.0e371e",
+      "version": "0.2.9",
       "url": "https://modules.openmrs.org/modulus/api/releases/1294/download/serialization.xstream-0.2.9.omod",
       "filename": "serialization.xstream-0.2.9.omod"
     },
