@@ -178,6 +178,14 @@
       "filename": "pharmacyapi-1.0.7.omod"
     },
     {
+      "name": "OpenMRS POC Module",
+      "version": "1.0-SNAPSHOT",
+      "git": {
+        "repo": "https://github.com/esaude/openmrs-module-poc.git"
+      },
+      "filename": "poc-1.0-SNAPSHOT.omod"
+    },
+    {
       "name": "Reporting MDS Module",
       "version": "1.0.0",
       "url": "https://dl.bintray.com/esaude/platform-omods/reportingmds-1.0-SNAPSHOT.omod",
