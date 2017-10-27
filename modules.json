@@ -173,9 +173,9 @@
     },
     {
       "name": "OpenMRS Pharmacy Module",
-      "version": "1.0.7",
-      "url": "https://dl.bintray.com/esaude/platform-omods/pharmacyapi-1.0.7.omod",
-      "filename": "pharmacyapi-1.0.7.omod"
+      "version": "1.0.8",
+      "url": "https://dl.bintray.com/esaude/platform-omods/pharmacyapi-1.0.8.omod",
+      "filename": "pharmacyapi-1.0.8.omod"
     },
     {
       "name": "Reporting MDS Module",
