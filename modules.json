@@ -179,7 +179,7 @@
     },
     {
       "name": "OpenMRS POC Module",
-      "version": "1.0-SNAPSHOT",
+      "version": "1.0",
       "url": "https://dl.bintray.com/esaude/platform-omods/platform-omods/Other/poc-1.0.omod", 
       "filename": "poc-1.0-.omod"
     },
