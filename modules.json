@@ -180,10 +180,8 @@
     {
       "name": "OpenMRS POC Module",
       "version": "1.0-SNAPSHOT",
-      "git": {
-        "repo": "https://github.com/esaude/openmrs-module-poc.git"
-      },
-      "filename": "poc-1.0-SNAPSHOT.omod"
+      "url": "https://dl.bintray.com/esaude/platform-omods/platform-omods/Other/poc-1.0.omod", 
+      "filename": "poc-1.0-.omod"
     },
     {
       "name": "Reporting MDS Module",
