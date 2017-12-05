@@ -188,6 +188,12 @@
       "version": "1.0.0",
       "url": "https://dl.bintray.com/esaude/platform-omods/reportingmds-1.0-SNAPSHOT.omod",
       "filename": "reportingmds-1.0-SNAPSHOT.omod"
+    },
+    {
+      "name": "metadatadeploy",
+      "version": "1.8.1",
+      "url": "https://modules.openmrs.org/modulus/api/releases/1560/download/metadatadeploy-1.8.1.omod",
+      "filename": "metadatadeploy-1.8.1.omod"
     }
   ]
 }
