@@ -100,7 +100,7 @@
       "name": "OpenMRS UI Framework",
       "version": "3.4",
       "url": "https://dl.bintray.com/openmrs/omod/uiframework-3.4.omod",
-      "filename": "uiframework-omod-3.4.omod"
+      "filename": "uiframework-3.4.omod"
     },
     {
       "name": "Patient Flags Module",
