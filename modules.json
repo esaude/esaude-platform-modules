@@ -194,6 +194,12 @@
       "version": "1.8.1",
       "url": "https://dl.bintray.com/openmrs/omod/metadatadeploy-1.8.1.omod",
       "filename": "metadatadeploy-1.8.1.omod"
+    },
+    {
+      "name": "inventorypoc",
+      "version": "1.0.0",
+      "url": "https://dl.bintray.com/esaude/platform-omods/inventorypoc-1.0.0.omod",
+      "filename": "inventorypoc-1.0.0.omod"
     }
   ]
 }
