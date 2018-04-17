@@ -152,9 +152,9 @@
     },
     {
       "name": "eSaude Metadata Module",
-      "version": "1.6.2",
-      "url": "https://dl.bintray.com/esaude/platform-omods/esaudemetadata-1.6.2.omod",
-      "filename": "esaudemetadata-1.6.2.omod"
+      "version": "1.6.3",
+      "url": "https://dl.bintray.com/esaude/platform-omods/esaudemetadata-1.6.3.omod",
+      "filename": "esaudemetadata-1.6.3.omod"
     },
     {
       "name": "reportingrest",
@@ -173,9 +173,9 @@
     },
     {
       "name": "OpenMRS Pharmacy Module",
-      "version": "1.1.0",
-      "url": "https://dl.bintray.com/esaude/platform-omods/pharmacyapi-1.1.0.omod",
-      "filename": "pharmacyapi-1.1.0.omod"
+      "version": "pharmacyapi-1.1.1-SNAPSHOT",
+      "url": "https://dl.bintray.com/esaude/platform-omods/pharmacyapi-1.1.1-SNAPSHOT.omod",
+      "filename": "pharmacyapi-1.1.1-SNAPSHOT.omod"
     },
     {
       "name": "OpenMRS POC Module",
@@ -198,8 +198,8 @@
     {
       "name": "inventorypoc",
       "version": "1.0.0",
-      "url": "https://dl.bintray.com/esaude/platform-omods/inventorypoc-1.0.0.omod",
-      "filename": "inventorypoc-1.0.0.omod"
+      "url": "https://dl.bintray.com/esaude/platform-omods/inventorypoc-1.0.1-SNAPSHOT.omod",
+      "filename": "inventorypoc-1.0.1-SNAPSHOT.omod"
     }
   ]
 }
