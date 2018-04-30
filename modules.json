@@ -179,9 +179,9 @@
     },
     {
       "name": "OpenMRS POC Module",
-      "version": "1.2.0",
-      "url": "https://dl.bintray.com/esaude/platform-omods/poc-1.2.0.omod",
-      "filename": "poc-1.2.0.omod"
+      "version": "1.2.1",
+      "url": "https://dl.bintray.com/esaude/platform-omods/poc-1.2.1.omod",
+      "filename": "poc-1.2.1.omod"
     },
     {
       "name": "Reporting MDS Module",
