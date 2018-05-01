@@ -173,9 +173,9 @@
     },
     {
       "name": "OpenMRS Pharmacy Module",
-      "version": "1.1.1",
-      "url": "https://dl.bintray.com/esaude/platform-omods/pharmacyapi-1.1.1.omod",
-      "filename": "pharmacyapi-1.1.1.omod"
+      "version": "1.1.2",
+      "url": "https://dl.bintray.com/esaude/platform-omods/pharmacyapi-1.1.2.omod",
+      "filename": "pharmacyapi-1.1.2.omod"
     },
     {
       "name": "OpenMRS POC Module",
