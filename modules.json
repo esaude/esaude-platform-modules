@@ -8,45 +8,45 @@
     },
     {
       "name": "App Framework Module",
-      "version": "2.1",
-      "url": "https://dl.bintray.com/openmrs/omod/appframework-2.1.omod",
-      "filename": "appframework-2.1.omod"
+      "version": "2.9",
+      "url": "https://dl.bintray.com/openmrs/omod/appframework-2.9.omod",
+      "filename": "appframework-2.9.omod"
     },
     {
       "name": "Calculation",
-      "version": "1.1",
-      "url": "https://dl.bintray.com/openmrs/omod/calculation-1.1.omod",
-      "filename": "calculation-1.1.omod"
+      "version": "1.2",
+      "url": "https://dl.bintray.com/openmrs/omod/calculation-1.2.omod",
+      "filename": "calculation-1.2.omod"
     },
     {
       "name": "Data Entry Statistics",
-      "version": "1.3.2",
-      "url": "https://dl.bintray.com/openmrs/omod/dataentrystatistics-1.3.2.omod",
-      "filename": "dataentrystatistics-1.3.2.omod"
+      "version": "1.6.0",
+      "url": "https://dl.bintray.com/openmrs/omod/dataentrystatistics-1.6.0.omod",
+      "filename": "dataentrystatistics-1.6.0.omod"
     },
     {
       "name": "Database Backup Module",
-      "version": "1.0",
-      "url": "https://dl.bintray.com/openmrs/omod/databasebackup-1.0.omod",
-      "filename": "databasebackup-1.0.omod"
+      "version": "1.3.0",
+      "url": "https://dl.bintray.com/openmrs/omod/databasebackup-1.3.0.omod",
+      "filename": "databasebackup-1.3.0.omod"
     },
     {
       "name": "EMR API Module",
-      "version": "1.11.1",
-      "url": "https://dl.bintray.com/openmrs/omod/emrapi-1.11.1.omod",
-      "filename": "emrapi-1.11.1.omod"
+      "version": "1.18",
+      "url": "https://dl.bintray.com/openmrs/omod/emrapi-1.18.omod",
+      "filename": "emrapi-1.18.omod"
     },
     {
       "name": "Event Module",
-      "version": "2.2.1",
-      "url": "https://dl.bintray.com/openmrs/omod/event-2.2.1.omod",
-      "filename": "event-2.2.1.omod"
+      "version": "2.5",
+      "url": "https://dl.bintray.com/openmrs/omod/event-2.5.omod",
+      "filename": "event-2.5.omod"
     },
     {
       "name": "Form Filter Module",
-      "version": "1.0.0",
-      "url": "https://dl.bintray.com/openmrs/omod/formfilter-1.0.0.omod",
-      "filename": "formfilter-1.0.0.omod"
+      "version": "1.2",
+      "url": "https://dl.bintray.com/openmrs/omod/formfilter-1.2.omod",
+      "filename": "formfilter-1.2.omod"
     },
     {
       "name": "Gaac Module",
@@ -79,34 +79,28 @@
       "filename": "htmlwidgets-1.9.0.omod"
     },
     {
-      "name": "Logic Module",
-      "version": "0.5.2",
-      "url": "https://dl.bintray.com/openmrs/omod/logic-0.5.2.omod",
-      "filename": "logic-0.5.2.omod"
-    },
-    {
       "name": "Metadata Mapping",
-      "version": "1.0.1",
-      "url": "https://dl.bintray.com/openmrs/omod/metadatamapping-1.0.1.omod",
-      "filename": "metadatamapping-1.0.1.omod"
+      "version": "1.2.1",
+      "url": "https://dl.bintray.com/openmrs/omod/metadatamapping-1.2.1.omod",
+      "filename": "metadatamapping-1.2.1.omod"
     },
     {
       "name": "Metadata Sharing",
-      "version": "1.2",
-      "url": "https://dl.bintray.com/openmrs/omod/metadatasharing-1.2.omod",
-      "filename": "metadatasharing-1.2.omod"
+      "version": "1.2.2",
+      "url": "https://dl.bintray.com/openmrs/omod/metadatasharing-1.2.2.omod",
+      "filename": "metadatasharing-1.2.2omod"
     },
     {
       "name": "OpenMRS UI Framework",
-      "version": "3.4",
-      "url": "https://dl.bintray.com/openmrs/omod/uiframework-3.4.omod",
-      "filename": "uiframework-3.4.omod"
+      "version": "3.9",
+      "url": "https://dl.bintray.com/openmrs/omod/uiframework-3.9.omod",
+      "filename": "uiframework-3.9.omod"
     },
     {
       "name": "Patient Flags Module",
-      "version": "1.3.4",
-      "url": "https://dl.bintray.com/openmrs/omod/patientflags-1.3.4.omod",
-      "filename": "patientflags-1.3.4.omod"
+      "version": "2.0.0",
+      "url": "https://dl.bintray.com/openmrs/omod/patientflags-2.0.0.omod",
+      "filename": "patientflags-2.0.0.omod"
     },
     {
       "name": "Patient Summary Module",
@@ -116,21 +110,21 @@
     },
     {
       "name": "Provider Management Module",
-      "version": "2.3",
-      "url": "https://dl.bintray.com/openmrs/omod/providermanagement-2.3.omod",
-      "filename": "providermanagement-2.3.omod"
+      "version": "2.5.0",
+      "url": "https://dl.bintray.com/openmrs/omod/providermanagement-2.5.0.omod",
+      "filename": "providermanagement-2.5.0.omod"
     },
     {
       "name": "Reporting",
-      "version": "0.9.9",
-      "url": "https://dl.bintray.com/openmrs/omod/reporting-0.9.9.omod",
-      "filename": "reporting-0.9.9.omod"
+      "version": "0.10.6",
+      "url": "https://dl.bintray.com/openmrs/omod/reporting-0.10.6.omod",
+      "filename": "reporting-0.10.6.omod"
     },
     {
       "name": "Reporting Compatibility",
-      "version": "1.5.8",
-      "url": "https://dl.bintray.com/openmrs/omod/reportingcompatibility-1.5.8.omod",
-      "filename": "reportingcompatibility-1.5.8.omod"
+      "version": "2.0.2",
+      "url": "https://dl.bintray.com/openmrs/omod/reportingcompatibility-2.0.2.omod",
+      "filename": "reportingcompatibility-2.0.2.omod"
     },
     {
       "name": "Rest Web Services",
@@ -140,15 +134,15 @@
     },
     {
       "name": "Serialization Xstream",
-      "version": "0.2.9",
-      "url": "https://dl.bintray.com/openmrs/omod/serialization.xstream-0.2.9.omod",
-      "filename": "serialization.xstream-0.2.9.omod"
+      "version": "0.2.12",
+      "url": "https://dl.bintray.com/openmrs/omod/serialization.xstream-0.2.12.omod",
+      "filename": "serialization.xstream-0.2.12.omod"
     },
     {
       "name": "UI Library Module",
-      "version": "1.5",
-      "url": "https://dl.bintray.com/openmrs/omod/uilibrary-1.5.omod",
-      "filename": "uilibrary-1.5.omod"
+      "version": "2.0.4",
+      "url": "https://dl.bintray.com/openmrs/omod/uilibrary-2.0.4.omod",
+      "filename": "uilibrary-2.0.4.omod"
     },
     {
       "name": "eSaude Metadata Module",
