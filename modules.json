@@ -200,6 +200,12 @@
       "version": "1.0.0",
       "url": "https://dl.bintray.com/esaude/platform-omods/esaudereports-1.0.0.omod",
       "filename": "esaudereports-1.0.0.omod"
+    },
+    {
+      "name": "legacyui",
+      "version": "1.2.3",
+      "url": "https://dl.bintray.com/openmrs/omod/legacyui-1.2.3.omod",
+      "filename": "legacyui-1.2.3.omod"
     }
   ]
 }
