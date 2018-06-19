@@ -152,9 +152,9 @@
     },
     {
       "name": "eSaude Metadata Module",
-      "version": "1.6.6",
-      "url": "https://dl.bintray.com/esaude/platform-omods/esaudemetadata-1.6.6.omod",
-      "filename": "esaudemetadata-1.6.6.omod"
+      "version": "1.6.7",
+      "url": "https://dl.bintray.com/esaude/platform-omods/esaudemetadata-1.6.7.omod",
+      "filename": "esaudemetadata-1.6.7.omod"
     },
     {
       "name": "reportingrest",
