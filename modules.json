@@ -179,9 +179,9 @@
     },
     {
       "name": "OpenMRS POC Module",
-      "version": "1.2.1",
-      "url": "https://dl.bintray.com/esaude/platform-omods/poc-1.2.1.omod",
-      "filename": "poc-1.2.1.omod"
+      "version": "1.2.2",
+      "url": "https://dl.bintray.com/esaude/platform-omods/poc-1.2.2.omod",
+      "filename": "poc-1.2.2.omod"
     },
     {
       "name": "Reporting MDS Module",
@@ -197,9 +197,9 @@
     },
     {
       "name": "inventorypoc",
-      "version": "1.0.1",
-      "url": "https://dl.bintray.com/esaude/platform-omods/inventorypoc-1.0.1-SNAPSHOT.omod",
-      "filename": "inventorypoc-1.0.1-SNAPSHOT.omod"
+      "version": "1.0.2",
+      "url": "https://dl.bintray.com/esaude/platform-omods/inventorypoc-1.0.2.omod",
+      "filename": "inventorypoc-1.0.2.omod"
     },
     {
       "name": "esaudereports",
