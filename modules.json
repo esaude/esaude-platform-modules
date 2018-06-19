@@ -146,9 +146,9 @@
     },
     {
       "name": "eSaude Metadata Module",
-      "version": "1.6.6",
-      "url": "https://dl.bintray.com/esaude/platform-omods/esaudemetadata-1.6.6.omod",
-      "filename": "esaudemetadata-1.6.6.omod"
+      "version": "1.6.7",
+      "url": "https://dl.bintray.com/esaude/platform-omods/esaudemetadata-1.6.7.omod",
+      "filename": "esaudemetadata-1.6.7.omod"
     },
     {
       "name": "reportingrest",
@@ -167,9 +167,9 @@
     },
     {
       "name": "OpenMRS Pharmacy Module",
-      "version": "1.1.2",
-      "url": "https://dl.bintray.com/esaude/platform-omods/pharmacyapi-1.1.2.omod",
-      "filename": "pharmacyapi-1.1.2.omod"
+      "version": "1.1.3",
+      "url": "https://dl.bintray.com/esaude/platform-omods/pharmacyapi-1.1.3.omod",
+      "filename": "pharmacyapi-1.1.3.omod"
     },
     {
       "name": "OpenMRS POC Module",
