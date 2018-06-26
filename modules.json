@@ -206,6 +206,24 @@
       "version": "1.2.3",
       "url": "https://dl.bintray.com/openmrs/omod/legacyui-1.2.3.omod",
       "filename": "legacyui-1.2.3.omod"
+    },
+    {
+      "name": "sync2",
+      "version": "1.1.0",
+      "url": "https://dl.bintray.com/openmrs/omod/sync2-1.1.0.omod",
+      "filename": "sync2-1.1.0.omod"
+    },
+    {
+      "name": "fhir",
+      "version": "1.13.1",
+      "url": "https://dl.bintray.com/openmrs/omod/fhir-1.13.1.omod",
+      "filename": "fhir-1.13.1.omod"
+    },
+    {
+      "name": "atomfeed",
+      "version": "1.0.5",
+      "url": "https://dl.bintray.com/openmrs/omod/atomfeed-1.0.5.omod",
+      "filename": "atomfeed-1.0.5.omod"
     }
   ]
 }
